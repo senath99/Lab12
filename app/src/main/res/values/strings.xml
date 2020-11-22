@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab12</string>
+    <string name="Title">CourseApp</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="reg">Register</string>
+    <string name="Reg">Register Form</string>
+    <string name="Teacher">Teacher</string>
+    <string name="Student">Student</string>
+    <string name="wel">Welcome Username</string>
+    <string name="subject">Subject</string>
+    <string name="mess">Message</string>
+    <string name="Send">Send</string>
+    <string name="channel_name">notificationChannel</string>
+    <string name="description">Notifcation!!!</string>
+</resources>
